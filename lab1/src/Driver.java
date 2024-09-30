@@ -18,6 +18,7 @@ public class Driver {
 		 Ellipse ellipse = new Ellipse();
 		 ellipse.setR1(10);
 		 ellipse.setR2(5);
+		 ellipse.getR2();
 		 System.out.print(ellipse.getArea());
 
 	}
