@@ -9,7 +9,7 @@ public class Ellipse extends Shape {
 	public double getR2() {return this.r2;}
 
 	Ellipse() {
-		super(0);
+		super(1);
 		// TODO Auto-generated constructor stub
 	}
 

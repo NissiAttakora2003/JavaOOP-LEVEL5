@@ -5,7 +5,7 @@ public class Circle extends Shape {
 	
 
 	Circle() {
-		super(0);
+		super(1);
 		// TODO Auto-generated constructor stub
 	}
 	
